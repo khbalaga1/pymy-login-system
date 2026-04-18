@@ -34,5 +34,5 @@ def login_user(username, password):
 
 # Example usage
 if __name__ == "__main__":
-    register_user("krishna", "securepassword123")
-    login_user("krishna", "securepassword123")
+    register_user("admin", "securepassword123")
+    login_user("admin", "securepassword123")
